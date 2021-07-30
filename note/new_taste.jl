@@ -14,5 +14,7 @@ println(a)
 `julia -e 'a = 5 * 8; println(a)`
 
 *python 有无此功能需要学习*
+`python -c "a = 5 * 8; print(a)"`
+
 """
 
